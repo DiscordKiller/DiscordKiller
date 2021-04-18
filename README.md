@@ -1,7 +1,7 @@
 ### Hey whatsup 👋
 
 - 🔨 I am currently working on Nothing
-
+- 🌱 I’m currently learning C++
 <br>
 
 <details>

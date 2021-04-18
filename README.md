@@ -2,6 +2,7 @@
 
 - 🔨 I am currently working on Nothing
 - 🌱 I’m currently learning C++
+- 🥅 2021 Goals: Do more.
 <br>
 
 <details>

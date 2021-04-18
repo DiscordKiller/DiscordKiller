@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DiscordKiller&count_private=true&show_icons=true&theme=tokyonight" />
 </details>
 
-### Github trophies
+### Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=DiscordKiller&theme=dark)
 
 ### 🛠 Tools Etc

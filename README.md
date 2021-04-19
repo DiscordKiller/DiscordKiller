@@ -6,12 +6,12 @@
 
 <details>
   <summary>Statistics</summary> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiscordKille&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DiscordKille&count_private=true&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiscordKiller&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DiscordKiller&count_private=true&show_icons=true&theme=tokyonight" />
 </details>
 
 ### :clock10: Streak
-[![DiscordKiller's github streak](https://github-readme-streak-stats.herokuapp.com/?user=DiscordKille&theme=blue-green)](https://github.com/DiscordKille/github-readme-streak-stats)
+[![DiscordKiller's github streak](https://github-readme-streak-stats.herokuapp.com/?user=DiscordKiller&theme=blue-green)](https://github.com/DiscordKiller/github-readme-streak-stats)
 
 ### 🏆 Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=DiscordKiller&theme=dark)

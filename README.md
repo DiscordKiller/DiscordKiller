@@ -11,6 +11,7 @@
 </details>
 ### Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=DiscordKiller&theme=dark)
+
 ### 🛠 Tools Etc
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;

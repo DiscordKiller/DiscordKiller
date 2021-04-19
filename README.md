@@ -11,7 +11,7 @@
 </details>
 
 ### Streak
-[![DiscordKiller's github streak](https://github-readme-streak-stats.herokuapp.com/?user=DiscordKiller&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![DiscordKiller's github streak](https://github-readme-streak-stats.herokuapp.com/?user=DiscordKiller&theme=blue-green)](https://github.com/DiscordKiller/github-readme-streak-stats)
 
 ### Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=DiscordKiller&theme=dark)

@@ -4,16 +4,13 @@
 - 🌱 I’m currently learning Nothing
 - 🥅 2021 Goals: Do more.
 <br>
-
 <details>
   <summary>Statistics</summary> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiscordKiller&layout=compact&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=DiscordKiller&count_private=true&show_icons=true&theme=tokyonight" />
 </details>
-
 ### Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=DiscordKiller&theme=dark)
-
 ### 🛠 Tools Etc
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;

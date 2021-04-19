@@ -13,7 +13,7 @@
 ### :clock10: Streak
 [![DiscordKiller's github streak](https://github-readme-streak-stats.herokuapp.com/?user=DiscordKiller&theme=blue-green)](https://github.com/DiscordKiller/github-readme-streak-stats)
 
-### Trophies
+### 🏆 Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=DiscordKiller&theme=dark)
 
 ### 🛠 Tools Etc

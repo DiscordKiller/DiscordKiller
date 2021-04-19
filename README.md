@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DiscordKiller&count_private=true&show_icons=true&theme=tokyonight" />
 </details>
 
-### Streak
+### :clock10: Streak
 [![DiscordKiller's github streak](https://github-readme-streak-stats.herokuapp.com/?user=DiscordKiller&theme=blue-green)](https://github.com/DiscordKiller/github-readme-streak-stats)
 
 ### Trophies

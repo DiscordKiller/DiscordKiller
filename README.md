@@ -3,12 +3,13 @@
 - 🔨 I am currently working on Nothing
 - 🌱 I’m currently learning Nothing
 - 🥅 2021 Goals: Do more.
-<br>
+
 <details>
   <summary>Statistics</summary> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiscordKiller&layout=compact&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=DiscordKiller&count_private=true&show_icons=true&theme=tokyonight" />
 </details>
+
 ### Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=DiscordKiller&theme=dark)
 
